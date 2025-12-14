@@ -1,0 +1,5 @@
+{
+  "name": "SecureGuard IRP System",
+  "description": "Ақпараттық қауіпсіздік инциденттерін басқару жүйесі (Information Security Incident Response System). Курстық жұмысқа арналған функционалды Dashboard.",
+  "requestFramePermissions": []
+}
